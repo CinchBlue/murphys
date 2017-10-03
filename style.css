@@ -1,0 +1,26 @@
+#first-section {
+    background: url(http://murphyshawaii.com/media/2014/04/murphys-front.jpg) no-repeat center center fixed;
+    height: 500px;
+    background-size: cover;
+}
+
+#second-section {
+    background: #004030;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 12pt;
+}
+
+#murphys-section {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.large.text {
+    font-size: 14pt;
+    line-height:
+}
+
+.white-text {
+    color: white;
+}
